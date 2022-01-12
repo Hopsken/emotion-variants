@@ -6,9 +6,8 @@
   "author": "Hopsken <shaowei5@icloud.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "example": "vite",
+    "build": "tsc"
   },
   "dependencies": {
     "@emotion/react": "^11.7.1",
